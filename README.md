@@ -1,16 +1,2 @@
-# apiwithriverpod
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screen Shot 2023-01-30 at 11 09 09](https://user-images.githubusercontent.com/106466382/215422247-0f70d541-1fd9-4757-9d66-5c3bb57dceee.png)
+![Screen Shot 2023-01-30 at 11 10 19](https://user-images.githubusercontent.com/106466382/215422269-f4f12bdc-c342-4f49-a5e9-4c6c38758d57.png)
